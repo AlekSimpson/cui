@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cui.dir/src/src/cui.cpp.o -o cui  -L/usr/lib/x86_64-linux-gnu  -lSDL2 -lSDL2_ttf 
